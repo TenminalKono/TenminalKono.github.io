@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>hexo</title>
+  <title>TenminalKono&#39;s Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://tenminalkono.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://tenminalkono.github.io/"/>
   <updated>2024-12-24T07:03:15.615Z</updated>
-  <id>http://example.com/</id>
+  <id>https://tenminalkono.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>TenminalKono</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/12/24/hello-world/"/>
-    <id>http://example.com/2024/12/24/hello-world/</id>
+    <link href="https://tenminalkono.github.io/2024/12/24/hello-world/"/>
+    <id>https://tenminalkono.github.io/2024/12/24/hello-world/</id>
     <published>2024-12-24T07:03:15.615Z</published>
     <updated>2024-12-24T07:03:15.615Z</updated>
     
